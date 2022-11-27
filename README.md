@@ -1,11 +1,12 @@
 ### Hey! Hey! Hey! 
 My name is Max(im)! 😉
-#[<img align="left" alt="mskstimka | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin] <- Linkedin account
+
+##[<img align="left" alt="mskstimka | LinkedIn" width="22px" src="https://www.ai-expo.net/wp-content/uploads/2020/04/linkedlinkedinlogosocialicon-1320191784782940875.png" />][linkedin] 
     
-## I'm an Android Dev, a couple of moments about me:
+## I'm Ukrainian Android Developer, a couple of moments about me:
 - 🥰 I + code = like ️
 - 🧐 My + dream = working in Google :) (one day) 
-- 🇺🇦 I + Country = is Ukrainian 
+- 😇 I + nationality = is Ukrainian 
 
 ## My projects: 
 - 0️⃣ Otaku (anime and manga library (in development))
