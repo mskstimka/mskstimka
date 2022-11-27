@@ -1,7 +1,7 @@
 ### Hey! Hey! Hey! 
 My name is Max(im)! 😉
 
-[<img align="left" alt="mskstimka | LinkedIn" width="22px" src="https://www.ai-expo.net/wp-content/uploads/2020/04/linkedlinkedinlogosocialicon-1320191784782940875.png" />][linkedin] * linkedin account
+[<img align="center" alt="mskstimka | LinkedIn" width="22px" src="https://www.ai-expo.net/wp-content/uploads/2020/04/linkedlinkedinlogosocialicon-1320191784782940875.png" />][linkedin]linkedin account
     
 ## I'm Ukrainian Android Developer, a couple of moments about me:
 - 🥰 I + code = like ️
