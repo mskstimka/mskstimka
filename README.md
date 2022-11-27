@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey! Hey! Hey! 👋, my name is Max(im)! :)
 
-<!--
-**mskstimka/mskstimka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm an Android Developer, a couple of moments about me) :
+- 🥰 I + code = like
+- 🧐 My + dream = working in Google :) (one day)
+- 😇 I + Country = is Ukrainian
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linkedin:
+[<img align="center" alt="mskstimka | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+
+<br />
+
+## My projects: 
+- 0️⃣ Otaku (anime and manga library (in development))
+- 1️⃣ in processing...
+
+[linkedin]: https://www.linkedin.com/in/maxim-tymchyshyn-217446219/
